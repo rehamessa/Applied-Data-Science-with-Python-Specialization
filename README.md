@@ -14,4 +14,10 @@ Introduction to Data Science in Python (course 1), Applied Plotting, Charting & 
 | Week3 | value3 |
 | Week4 | value3 |
 | Week5 | value3 |
+
+
+| Week     | Topic |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
        
