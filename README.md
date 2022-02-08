@@ -6,31 +6,10 @@ Introduction to Data Science in Python (course 1), Applied Plotting, Charting & 
 # Courses
 ## 1-Introduction to Data Science in Python
 <details>
-<table>
-    <thead>
-        <tr>
-            
-            <th >Week</th>
-            <th >content</th>
-        </tr>
-    </thead>
-    <tbody>
-            <tr>
-                
-                <td  align="center">Week1</td>
-                <td align="center">Fundamentals of Data Manipulation with Python</td>
-            </tr>
-            <tr>
-                <td  align="center">Week2</td>
-                <td align="center">Data Processing with Pandas</td>
-            </tr>
-            <tr>
-                <td  align="center">Week3</td>
-                <td align="center">Data Processing with Pandas</td>
-            </tr>
-            <tr>
-                <td align="center">Week4</td>
-                <td align="center"> Data Manipulation</td>
-            </tr>
-            
+| Week| Topic |
+| Week1 | value1 |
+| Week2 | value2 |
+| Week3 | value3 |
+| Week4 | value3 |
+| Week5 | value3 |
        
