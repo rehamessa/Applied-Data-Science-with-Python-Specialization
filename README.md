@@ -9,7 +9,7 @@ Introduction to Data Science in Python (course 1), Applied Plotting, Charting & 
 <table>
     <thead>
         <tr>
-            
+            <th></th>
             <th >Week</th>
             <th >content</th>
         </tr>
