@@ -6,6 +6,7 @@ Introduction to Data Science in Python (course 1), Applied Plotting, Charting & 
 # Courses
 ## 1-Introduction to Data Science in Python
 <details>
+       
 | Week| Topic |
 | Week1 | value1 |
 | Week2 | value2 |
