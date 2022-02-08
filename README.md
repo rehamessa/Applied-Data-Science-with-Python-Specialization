@@ -4,8 +4,9 @@ The 5 courses in this University of Michigan specialization introduce learners t
 
 Introduction to Data Science in Python (course 1), Applied Plotting, Charting & Data Representation in Python (course 2), and Applied Machine Learning in Python (course 3) should be taken in order and prior to any other course in the specialization.  After completing those, courses 4 and 5 can be taken in any order.  All 5 are required to earn a certificate.
 # Courses
-## 1-Introduction to Data Science in Python
 <details>
+## 1-Introduction to Data Science in Python
+
        
 | Week| Topic |
 | Week1 | value1 |
