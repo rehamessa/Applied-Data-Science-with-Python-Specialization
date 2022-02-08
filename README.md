@@ -9,16 +9,14 @@ Introduction to Data Science in Python (course 1), Applied Plotting, Charting & 
 <table>
     <thead>
         <tr>
-            <th> </th>
+            
             <th >Week</th>
             <th >content</th>
         </tr>
     </thead>
     <tbody>
             <tr>
-                <td rowspan=8 align=center>
-week1
-                </td>
+                
                 <td  align="center">Week1</td>
                 <td align="center">Fundamentals of Data Manipulation with Python</td>
             </tr>
