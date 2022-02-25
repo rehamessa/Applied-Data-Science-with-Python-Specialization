@@ -18,3 +18,16 @@ Introduction to Data Science in Python (course 1), Applied Plotting, Charting & 
 | Week3     | More Data Processing with Pandas     |
 | Week4  | Data Manipulation       |
 
+## 2-Applied Plotting, Charting & Data Representation in Python
+
+       
+
+
+
+| Week     | Topic |
+| ----------- | ----------- |
+| Week1      | Principles of Information Visualization      |
+| Week2   |  Basic Charting        |
+| Week3     | Charting Fundamentals     |
+| Week4  | Applied Visualizations       |
+
