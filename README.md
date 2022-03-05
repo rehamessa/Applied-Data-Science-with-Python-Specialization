@@ -31,3 +31,17 @@ Introduction to Data Science in Python (course 1), Applied Plotting, Charting & 
 | Week3     | Charting Fundamentals     |
 | Week4  | Applied Visualizations       |
 
+## 3-Applied Machine Learning in Python
+
+       
+
+
+
+| Week     | Topic |
+| ----------- | ----------- |
+| Week1      | Fundamentals of Machine Learning - Intro to SciKit Learn     |
+| Week2   |  Supervised Machine Learningg        |
+| Week3     | Evaluation     |
+| Week4  | Supervised Machine Learning       |
+
+
